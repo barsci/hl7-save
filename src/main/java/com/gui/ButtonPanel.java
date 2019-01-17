@@ -48,6 +48,7 @@ public class ButtonPanel extends JFrame{
         setPreferredSize(new Dimension(WIDTH, HEIGHT));
         add(greenButton);
         setVisible(true);
+        greenButton.setBackground(Color.PINK);
 
         greenButton.addActionListener(new ActionListener() {
             @Override

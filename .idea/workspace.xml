@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e3e67dc-6618-488c-8462-0b0b5e0174b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_file" beforeDir="false" afterPath="$PROJECT_DIR$/id_file" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gui/ButtonPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gui/ButtonPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gui/ButtonPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gui/ButtonPanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/gui/ButtonPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gui/ButtonPanel.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gui/ButtonPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="391">
+              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gui/GreenButton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="102">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -74,9 +71,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/gui/Pana.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gui/GreenButton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gui/LabelTextFieldFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gui/LabelAndTextFieldGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gui/GreenButton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gui/ButtonPanel.java" />
       </list>
     </option>
@@ -144,7 +141,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547732190877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547732765969" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../kucharczyk_open" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -199,12 +196,12 @@
       <workItem from="1547121786871" duration="5786000" />
       <workItem from="1547324799110" duration="1303000" />
       <workItem from="1547468220608" duration="3233000" />
-      <workItem from="1547731018602" duration="1103000" />
+      <workItem from="1547731018602" duration="1707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14357000" />
+    <option name="totallyTimeSpent" value="14961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -251,13 +248,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gui/LabelTextFieldFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gui/LabelAndTextFieldGenerator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gui/GreenButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kucharzykk.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -275,10 +265,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gui/GreenButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gui/ButtonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="391">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
