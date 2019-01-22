@@ -26,9 +26,9 @@ public class ButtonPanel extends JFrame{
     private static final int WIDTH = 300;
     private JButton greenButton;
     private JFrame buttonPanel;
-    private JTextField[] textFields = new JTextField[10];
-    private JLabel[] labels = new JLabel[10];
     private String[] labelNames = new String[]{"Imie", "Nazwisko", "Płeć", "Pesel", "Numer konta", "Adres", "Miejsce narodzin", "Narodowość", "Stan cywilny", "Nazwa pliku do zapisu"};
+    private JTextField[] textFields = new JTextField[labelNames.length];
+    private JLabel[] labels = new JLabel[labelNames.length];
     public ButtonPanel() {
         greenButton = new GreenButton();
 
